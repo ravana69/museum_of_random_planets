@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:38:05	575/575	---M--	404	error ('Not%20Found')	text/html	etag:%2223f-4ae8f0ab47e80%22	http://digitonaut.com/robots.txt		(from )
+10:38:06	6517/6517	---M-Z	200	added ('OK')	text/html	date:Mon,%2024%20Apr%202023%2005:08:08%20GMT	http://digitonaut.com/art/museum_of_random_planets/	C:/My%20Web%20Sites/museum_of_random_planets/digitonaut.com/art/museum_of_random_planets/index.html	(from )
+10:38:06	7604/7604	---M-Z	200	added ('OK')	application/javascript	etag:W/%221db4-5db9a48295fd9%22	http://digitonaut.com/art/museum_of_random_planets/shader-web-background.min.js	C:/My%20Web%20Sites/museum_of_random_planets/digitonaut.com/art/museum_of_random_planets/shader-web-background.min.js	(from http://digitonaut.com/art/museum_of_random_planets/)
